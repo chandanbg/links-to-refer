@@ -1,3 +1,23 @@
 
 
 https://sandeepalur.substack.com/p/60-the-road-to-becoming-ai-native
+
+Learn DevOps by playing games 🎮
+
+1. Kubernetes
+http://K8sgames.com
+
+2. DevOps
+http://devops.games
+
+2. Linux
+http://overthewire.org
+
+3. Git
+http://ohmygit.org
+
+4. Python
+http://tynker.com
+
+5. 25+ programming languages
+http://codingame.com
